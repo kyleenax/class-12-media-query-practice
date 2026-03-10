@@ -49,6 +49,7 @@
         "fiveServer.openTerminal": false,
         "git.autofetch": true,
         "github.copilot.editor.enableAutoCompletions": false,
+        "chat.agent.enabled": false,
         "github.copilot.enable": {
           "*": false
         },
